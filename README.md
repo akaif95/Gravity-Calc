@@ -1,2 +1,2 @@
 # Gravity-Calc
-A basic Java Program that represents one of Newton's Laws
+A basic Java Program that represents a basic kinematic equation for falling objects
